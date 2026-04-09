@@ -1,4 +1,4 @@
-# Unity Game Demo
+# Airport Idle Game Demo
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/6MAQlIkuKoM)](https://youtu.be/6MAQlIkuKoM)
 <br>
@@ -24,3 +24,5 @@
 * For various animations, chained DOTween tween features were utilized.
 * An Avatar Mask was used to allow holding and walking animations to play simultaneously, and an Animation Layer was created.
 * Level-specific, more specialized, hard-coded actions were defined within the LevelManager using Coroutines.
+
+**No AI agent was used in the development of this demo.**
