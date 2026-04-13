@@ -6,7 +6,7 @@
 <br><br>
 [Windows Build](https://github.com/knightgames-tr/PlayableAdsDev/blob/main/windows_build.zip)
 
-### Developed using Unity 3D and the C# programming language.
+### Developed using Unity 3D and the C#.
 
 **Additional Assets Used:** DOTween, Joystick Pack
 
